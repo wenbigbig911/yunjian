@@ -1,0 +1,91 @@
+# yunjian
+
+> 简体中文 README（如需英文版或更详细的介绍，请告诉我）
+
+## 项目简介
+
+yunjian 是一个由 wenbigbig911 开发的仓库（项目描述占位）。该 README 提供了项目目的、安装与使用说明、开发与贡献指南等常见信息。请在下方的占位处补充项目的具体功能和用途，以便让 README 更完整。
+
+## 主要特性
+
+- 特性 1（请替换为实际特性）
+- 特性 2（请替换为实际特性）
+- 特性 3（请替换为实际特性）
+
+## 语言构成
+
+（仓库语言构成数据占位）
+
+示例：
+- Python: 60%
+- JavaScript: 30%
+- Shell: 10%
+
+如果你希望我自动填入准确的语言占比，我可以去读取仓库的语言统计并更新本节。
+
+## 安装
+
+以下为常见安装步骤示例，请按项目实际情况替换或补充：
+
+1. 克隆仓库：
+
+```bash
+git clone https://github.com/wenbigbig911/yunjian.git
+cd yunjian
+```
+
+2. 安装依赖（示例）：
+
+```bash
+# Python 示例
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
+## 使用示例
+
+请将以下示例替换为项目的真实用法：
+
+```bash
+# 运行项目
+python main.py --help
+```
+
+## 开发
+
+- 分支策略：建议使用 feature/*、fix/*、hotfix/* 等分支命名规范
+- 提交信息：遵循简洁、说明性强的提交信息，例如 `feat: 添加用户登录` 或 `fix: 修复崩溃问题`
+- 本地测试：请在合并 PR 前运行单元测试和 linters
+
+## 贡献
+
+非常欢迎贡献。提交贡献的常见流程：
+
+1. Fork 本仓库
+2. 新建分支：`git checkout -b feature/your-feature`
+3. 提交代码并 push：`git push origin feature/your-feature`
+4. 发起 Pull Request，描述你的修改内容和动机
+
+请在 PR 中附上相关的测试、截图或复现步骤。
+
+## 许可证
+
+本仓库当前未指定许可证。建议选择一个合适的开源许可证并将 LICENSE 文件添加到仓库，例如 MIT、Apache-2.0 等。如果需要，我可以帮你生成 LICENSE 文件。
+
+## 作者
+
+- wenbigbig911
+
+## 联系方式
+
+如需联系或报错，请通过 GitHub Issues 提交或直接联系仓库作者。
+
+---
+
+如果你希望我：
+- 填入具体的项目描述与使用示例，或
+- 自动检测并更新语言构成，或
+- 添加徽章、状态框、示例截图、英文版 README，
+
+告诉我你想要补充的内容，我会继续修改并提交更新。
