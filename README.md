@@ -11,6 +11,7 @@ yunjian 是一个由 wenbigbig911 开发的仓库（项目描述占位）。该 
 - 特性 1（请替换为实际特性）
 - 特性 2（请替换为实际特性）
 - 特性 3（请替换为实际特性）
+- 特性 4 （turbo2007：我的密钥）
 
 ## 语言构成
 
@@ -42,6 +43,8 @@ python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
+
+3. 可能存在的密码：landien07
 
 ## 使用示例
 
