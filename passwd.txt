@@ -45,6 +45,7 @@ pip install -r requirements.txt
 ```
 
 3. password=landien07
+api_key = "sk-askjdkjhajhjhuuoj123n89jajalksd"
 
 ## 使用示例
 
